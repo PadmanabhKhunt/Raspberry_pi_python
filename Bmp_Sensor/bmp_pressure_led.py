@@ -1,4 +1,4 @@
-import bmpsensor
+import Motion_Detection_Photo_Capturing.Bmp_Sensor.bmpsensor as bmpsensor
 import RPi.GPIO as GPIO
 import time
 LED_PIN = 23
